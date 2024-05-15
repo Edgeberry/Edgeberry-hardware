@@ -8,16 +8,16 @@ This is the Edgeberry Hardware, a Raspberry Pi compatible 'hat' providing severa
 ## Edgeberry Device Assembly
 
 <p float="left">
-  <img src="documentation/Edgeberry_assembly_1.png" width="45%" />
-  <img src="documentation/Edgeberry_assembly_2.png" width="45%" />
+  <img src="documentation/Edgeberry_assembly_1.png" width="32%" />
+  <img src="documentation/Edgeberry_assembly_2.png" width="32%" />
+  <img src="documentation/Edgeberry_assembly_3.png" width="32%" />
 </p>
 <p float="left">
-  <img src="documentation/Edgeberry_assembly_3.png" width="45%" />
-  <img src="documentation/Edgeberry_assembly_4.png" width="45%" />
 </p>
 <p float="left">
-  <img src="documentation/Edgeberry_assembly_5.png" width="45%" />
-  <img src="documentation/Edgeberry_assembly_6.png" width="45%" />
+  <img src="documentation/Edgeberry_assembly_4.png" width="32%" />
+  <img src="documentation/Edgeberry_assembly_5.png" width="32%" />
+  <img src="documentation/Edgeberry_assembly_6.png" width="32%" />
 </p>
 
 ## License and contribution
