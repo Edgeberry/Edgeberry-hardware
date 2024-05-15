@@ -1,9 +1,9 @@
-# EDGEBERRY Hardware
+![Edgeberry banner](documentation/Edgeberry_banner.png)
 
-<img src="documentation/Edgeberry_rev1-2_rendering.png" align="left" width="45%"/>
+<img src="documentation/Edgeberry_rev1-2_rendering.png" align="right" width="45%"/>
 This is the Raspberry Pi compatible Edgeberry 'hat' hardware project. This board is designed to ... [TODO]
 
-<br clear="left"/>
+<br clear="right"/>
 
 ## Edgeberry Device Assembly
 Lorem ipsum some interesting text about assembling the Edgeberry Hardware with the [Edgeberry Assembly Guide](documentation/Assembly_Guide.pdf).
