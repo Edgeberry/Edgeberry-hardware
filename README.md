@@ -1,11 +1,12 @@
 ![Edgeberry banner](documentation/Edgeberry_banner.png)
 
 <img src="documentation/Edgeberry_rev1-2_rendering.png" align="right" width="50%"/>
-This is the Edgeberry Hardware, a Raspberry Pi compatible 'hat' providing several basics for easily using your Raspberry Pi as an IoT Edge device and deploying it in a real-world environment.
+This is the Edgeberry Hardware project, a Raspberry Pi compatible 'hat' providing several basics for easily using your Raspberry Pi as an IoT Edge device and deploying it in a real-world environment.
 
 <br clear="right"/>
 
-## Edgeberry Device Assembly
+## Device Assembly
+After acquiring (or milling and soldering) the Edgeberry Hardware, and 3D printing the Edgeberry enclosure, you're ready to assemble your device.
 
 <p float="left">
   <img src="documentation/Edgeberry_assembly_1.png" width="32%" />
