@@ -1,12 +1,11 @@
 ![Edgeberry banner](documentation/Edgeberry_banner.png)
 
-<img src="documentation/Edgeberry_rev1-2_rendering.png" align="right" width="45%"/>
-This is the Raspberry Pi compatible Edgeberry 'hat' hardware project. This board is designed to ... [TODO]
+<img src="documentation/Edgeberry_rev1-2_rendering.png" align="right" width="50%"/>
+This is the Edgeberry Hardware, a Raspberry Pi compatible 'hat' providing several basics for easily using your Raspberry Pi as an IoT Edge device and deploying it in a real-world environment.
 
 <br clear="right"/>
 
 ## Edgeberry Device Assembly
-Lorem ipsum some interesting text about assembling the Edgeberry Hardware with the [Edgeberry Assembly Guide](documentation/Assembly_Guide.pdf).
 
 <p float="left">
   <img src="documentation/Edgeberry_assembly_1.png" width="45%" />
@@ -21,6 +20,5 @@ Lorem ipsum some interesting text about assembling the Edgeberry Hardware with t
   <img src="documentation/Edgeberry_assembly_6.png" width="45%" />
 </p>
 
-
 ## License and contribution
-Copyright Sanne 'SpuQ' Santens. All rights reserved. For now.
+Copyright Sanne 'SpuQ' Santens. All rights reserved. For now - I'm looking into [open source hardware licenses](https://www.oshwa.org/).
