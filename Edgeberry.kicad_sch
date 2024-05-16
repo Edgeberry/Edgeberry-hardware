@@ -2595,7 +2595,7 @@
     (property "Reference" "C1" (id 0) (at 150.495 138.43 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "220uF" (id 1) (at 150.495 143.51 0)
+    (property "Value" "330uF" (id 1) (at 150.495 143.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitors_SMD:c_elec_8x10" (id 2) (at 149.86 140.97 0)
@@ -2612,7 +2612,7 @@
     (property "Reference" "C2" (id 0) (at 196.215 138.43 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Value" "220uF" (id 1) (at 196.215 143.51 0)
+    (property "Value" "330uF" (id 1) (at 196.215 143.51 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
     (property "Footprint" "Capacitors_SMD:c_elec_8x10" (id 2) (at 195.58 140.97 0)
@@ -3486,10 +3486,10 @@
       (reference "#PWR042") (unit 1) (value "GND") (footprint "")
     )
     (path "/00000000-0000-0000-0000-00005b755152"
-      (reference "C1") (unit 1) (value "220uF") (footprint "Capacitors_SMD:c_elec_8x10")
+      (reference "C1") (unit 1) (value "330uF") (footprint "Capacitors_SMD:c_elec_8x10")
     )
     (path "/00000000-0000-0000-0000-00005b7551cf"
-      (reference "C2") (unit 1) (value "220uF") (footprint "Capacitors_SMD:c_elec_8x10")
+      (reference "C2") (unit 1) (value "330uF") (footprint "Capacitors_SMD:c_elec_8x10")
     )
     (path "/00000000-0000-0000-0000-00005c0be1df"
       (reference "D1") (unit 1) (value "Led_x2") (footprint "emcosys:bicolor_LED_right_angle")
