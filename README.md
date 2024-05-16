@@ -35,7 +35,7 @@ http://<device_ip_address>:3000
 ```
 ## (re)Writing the EEPROM
 >[!important]
->When you purchased the Edgeberry Hardware the manufacturer has written the EEPROM. Unless you are the manufacturer, or you're hacking your Edgeberry board, then continue reading.
+>**When you purchased the Edgeberry Hardware the manufacturer has written the EEPROM**. If you are the manufacturer, or you're hacking your Edgeberry board, then continue with the following steps.
 
 1) Close the EEPROM write protection jumper (JP1) to enable writing.
 2) TODO
