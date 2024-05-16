@@ -37,7 +37,7 @@ http://<device_ip_address>:3000
 >[!important]
 >**When you purchased the Edgeberry Hardware, the manufacturer has written the EEPROM**. If you are the manufacturer, or you're hacking your Edgeberry board, then continue with the following steps.
 
-1) Close the EEPROM write protection jumper (JP1) on the Edgeberry Hardware to enable writing
+1) Close the `write protection` jumper (JP1) on the Edgeberry Hardware to enable writing the EEPROM
 2) Download and build the [Raspberry Pi Hat eeprom utils](https://github.com/raspberrypi/hats) on your device 
 3) Make the EEPROM file from the eeprom_settings.txt using `eepmake` <br> Ex. `$ eepmake eeprom_settings.txt edgeberry.eep`
 4) Flash the EEPROM using `eepflash.sh` <br> Ex. `$ sudo ./eepflash -w -t=24c256 -f=edgeberry.eep`
