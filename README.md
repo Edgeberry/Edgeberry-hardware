@@ -33,6 +33,13 @@ If everything was successful, you can now access your Edgeberry's web interface 
 ```
 http://<device_ip_address>:3000
 ```
+## (re)Writing the EEPROM
+>[!important]
+>When you purchased the Edgeberry Hardware the manufacturer has written the EEPROM. Unless you are the manufacturer, or you're hacking your Edgeberry board, then continue reading.
+
+1) Close the EEPROM write protection jumper (JP1) to enable writing.
+2) TODO
+3) TODO
 
 ## License & Collaboration
 Copyright Sanne 'SpuQ' Santens. All rights reserved. For now - I'm looking into [open source hardware licenses](https://www.oshwa.org/).
