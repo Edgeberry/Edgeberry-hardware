@@ -1,7 +1,8 @@
 ![Edgeberry banner](documentation/Edgeberry_banner.png)
 
 <img src="documentation/Edgeberry_rendering.png" align="right" width="50%"/>
-This is the Edgeberry Hardware project, a Raspberry Pi compatible 'hat' providing several basics for easily using your Raspberry Pi as an IoT Edge device and deploying it in a real-world environment.
+
+The **Edgeberry Hardware** project is a Raspberry Pi compatible 'hat' providing several basics for easily using your Raspberry Pi as an IoT Edge device and deploying it in a real-world environment. Some key features are a built-in 3A step-down power supply enabling you to power your device reliably using a regular 12V adaptor, indicators for providing visible and audible status feedback, and an expansion slot for integrating application-specific hardware using a [Edgeberry Hardware Cartridge](https://github.com/SpuQ/Edgeberry-cartridge-console-can). The Edgeberry Hardware is designed to snugly fit in the [Edgeberry Enclosure](https://www.thingiverse.com/thing:6595172).
 
 <br clear="right"/>
 
