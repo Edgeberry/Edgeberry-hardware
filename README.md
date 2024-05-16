@@ -1,6 +1,6 @@
 ![Edgeberry banner](documentation/Edgeberry_banner.png)
 
-<img src="documentation/Edgeberry_rev1-2_rendering.png" align="right" width="50%"/>
+<img src="documentation/Edgeberry_rendering.png" align="right" width="50%"/>
 This is the Edgeberry Hardware project, a Raspberry Pi compatible 'hat' providing several basics for easily using your Raspberry Pi as an IoT Edge device and deploying it in a real-world environment.
 
 <br clear="right"/>
