@@ -39,12 +39,9 @@ http://<device_ip_address>:3000
 
 1) Close the EEPROM write protection jumper (JP1) on the Edgeberry Hardware to enable writing
 2) Download and build the [Raspberry Pi Hat eeprom utils](https://github.com/raspberrypi/hats) on your device 
-3) Make the EEPROM file from the eeprom_settings.txt using `eepmake` 
-\ Ex. `$ eepmake eeprom_settings.txt edgeberry.eep`
-4) Flash the EEPROM using `eepflash.sh`
-\ Ex. `$ sudo ./eepflash -w -t=24c256 -f=edgeberry.eep`
-5) Now `reboot` the device and check the device tree for your hat's settings 
-\ Ex.`$ cat /proc/device-tree/hat/vendor`)
+3) Make the EEPROM file from the eeprom_settings.txt using `eepmake` <br> Ex. `$ eepmake eeprom_settings.txt edgeberry.eep`
+4) Flash the EEPROM using `eepflash.sh` <br> Ex. `$ sudo ./eepflash -w -t=24c256 -f=edgeberry.eep`
+5) Now `reboot` the device and check the device tree for your hat's settings <br> Ex.`$ cat /proc/device-tree/hat/vendor`)
 
 ## License & Collaboration
 Copyright Sanne 'SpuQ' Santens. All rights reserved. For now - I'm looking into [open source hardware licenses](https://www.oshwa.org/).
