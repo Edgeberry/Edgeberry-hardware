@@ -12115,7 +12115,7 @@
 			(uuid "0122d4db-78de-464e-9627-fa894eab141e")
 		)
 		(fp_text user "${REFERENCE}"
-			(at -8.315 19.05 270)
+			(at -8.315 19.05 -90)
 			(layer "F.Fab")
 			(uuid "553b4e17-f5e0-4ef5-a118-0a859b685d15")
 			(effects
@@ -15541,7 +15541,7 @@
 		)
 	)
 	(gr_text "Edgeberry Hardware"
-		(at 72.449 29.072 0)
+		(at 72.449 19.772 0)
 		(layer "Dwgs.User")
 		(uuid "10db224c-0d26-4d57-b420-71e8de3154c9")
 		(effects
@@ -15564,7 +15564,7 @@
 		)
 	)
 	(gr_text "REV.: 1.5, Mid 2024"
-		(at 72.949 36.572 0)
+		(at 72.949 26.772 0)
 		(layer "Dwgs.User")
 		(uuid "382c51a8-873c-4e01-bae2-44737dbfaf8e")
 		(effects
@@ -15573,6 +15573,19 @@
 				(thickness 0.3)
 			)
 			(justify left)
+		)
+	)
+	(gr_text "Copyright© 2024 Sanne 'SpuQ' Santens. This design is released under\nthe CERN OHL-W license on GitHub."
+		(at 73.309 33.772 0)
+		(layer "Dwgs.User")
+		(uuid "732bebf8-6d94-48f3-b4e3-5a7db73c736e")
+		(effects
+			(font
+				(size 1.5 1.5)
+				(thickness 0.2)
+				(bold yes)
+			)
+			(justify left bottom)
 		)
 	)
 	(dimension

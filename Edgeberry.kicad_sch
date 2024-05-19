@@ -6066,6 +6066,17 @@
 		)
 		(uuid "ff096aa5-8728-4b9b-8345-63c5e314d292")
 	)
+	(text "Copyright© 2024 Sanne 'SpuQ' Santens. This design is released under\nthe CERN OHL-W license on GitHub."
+		(exclude_from_sim no)
+		(at 181.864 178.816 0)
+		(effects
+			(font
+				(size 1.524 1.524)
+			)
+			(justify left)
+		)
+		(uuid "0266398a-1e8f-4527-ad06-0d43dbb4d00b")
+	)
 	(text "Button"
 		(exclude_from_sim no)
 		(at 63.5 71.12 0)
@@ -6076,17 +6087,6 @@
 			(justify left bottom)
 		)
 		(uuid "06481be9-17d5-4348-8cf3-2ac380ada025")
-	)
-	(text "by Sanne 'SpuQ' Santens, mid 2024"
-		(exclude_from_sim no)
-		(at 181.61 180.34 0)
-		(effects
-			(font
-				(size 2.4892 2.4892)
-			)
-			(justify left bottom)
-		)
-		(uuid "192f61fc-7dce-45ff-9804-254058671e1e")
 	)
 	(text "EEPROM I2C address must be set to 0x50 to be\nused as a Raspberry Pi 'hat' ID. With the\n24LC256 this means pulling all Address pins\nlow."
 		(exclude_from_sim no)
@@ -6199,7 +6199,7 @@
 		)
 		(uuid "73c4cd56-fccd-4694-b5c7-de65ffb51867")
 	)
-	(text "Rev.: 1.5"
+	(text "Rev.: 1.5, mid 2024\n"
 		(exclude_from_sim no)
 		(at 181.61 175.26 0)
 		(effects

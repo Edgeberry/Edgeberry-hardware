@@ -44,7 +44,7 @@ http://<device_ip_address>:3000
 5) Now `reboot` the device and check the device tree for your hat's settings <br> e.g. `$ cat /proc/device-tree/hat/vendor`)
 
 ## License & Collaboration
-Copyright Sanne 'SpuQ' Santens. All rights reserved. For now - I'm looking into [open source hardware licenses](https://www.oshwa.org/).
+**Copyright© 2024 Sanne 'SpuQ' Santens**. This project is released under the **CERN OHL-W** license.
 
 ### Collaboration
 
