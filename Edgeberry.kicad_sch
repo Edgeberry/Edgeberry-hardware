@@ -3359,9 +3359,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "H"
+			(property "Reference" "J3"
 				(at 8.382 -24.13 0)
-				(do_not_autoplace)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -3370,14 +3369,13 @@
 			)
 			(property "Value" "Edgeberry Cartridge Connector"
 				(at -0.254 21.844 0)
-				(do_not_autoplace)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x16_P2.54mm_Horizontal"
+			(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_2x16_P2.54mm_Horizontal"
 				(at -0.508 -27.178 0)
 				(effects
 					(font
@@ -3404,21 +3402,19 @@
 					(hide yes)
 				)
 			)
-			(symbol "Edgeberry_Cartridge_Connector_0_1"
+			(symbol "Edgeberry_Cartridge_Connector_1_1"
 				(polyline
 					(pts
 						(xy -11.43 20.32) (xy 11.43 20.32) (xy 11.43 -22.86) (xy -11.43 -22.86) (xy -11.43 20.32)
 					)
 					(stroke
-						(width 0)
-						(type default)
+						(width 0.254)
+						(type solid)
 					)
 					(fill
-						(type none)
+						(type background)
 					)
 				)
-			)
-			(symbol "Edgeberry_Cartridge_Connector_1_1"
 				(pin output line
 					(at -13.97 17.78 0)
 					(length 2.54)
@@ -11753,11 +11749,9 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "b2eb46f5-e078-462d-9a2e-aa93ac5ccae8")
 		(property "Reference" "J3"
-			(at 236.982 80.01 0)
-			(do_not_autoplace yes)
+			(at 218.186 33.782 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11765,8 +11759,7 @@
 			)
 		)
 		(property "Value" "Edgeberry Cartridge Connector"
-			(at 228.346 34.036 0)
-			(do_not_autoplace yes)
+			(at 228.6 80.264 0)
 			(effects
 				(font
 					(size 1.27 1.27)
