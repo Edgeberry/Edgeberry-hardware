@@ -6,16 +6,6 @@ The **Edgeberry Hardware** project is a Raspberry Pi compatible 'hat' providing 
 
 <br clear="right"/>
 
-## The Edgeberry Project
-
-The Edgeberry Project is a dynamic and integrated ecosystem that brings together hardware, software and community resources to empower users and developers in the IoT space. At its core, the Edgeberry platform provides the foundation for building, deploying and managing IoT devices, offering a range of hardware configurations with the Raspberry Pi and [Edgeberry Hardware](https://github.com/SpuQ/Edgeberry-hardware) at its core expandable with [Edgeberry Hardware Cartridges](https://github.com/SpuQ/Edgeberry-cartridge-console-can), software tools and development resources to support a diverse array of applications and use cases.
-
-- Building blocks for creating customized IoT solutions.
-- Edgeberry Dashboard: a software platform for device management
-- Open Source: community collaboration & knowledge sharing, accellerating innovation
-
-The Edgeberry Project is an ideal basis to address real-world challanges, drive innovation and create meaningful impact in communities and industries through IoT.
-
 ## Device Assembly
 After acquiring (or milling and soldering) the Edgeberry Hardware, and 3D printing the Edgeberry enclosure, you're ready to assemble your device.
 
