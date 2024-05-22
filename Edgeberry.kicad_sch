@@ -6199,7 +6199,7 @@
 		)
 		(uuid "73c4cd56-fccd-4694-b5c7-de65ffb51867")
 	)
-	(text "Rev.: 1.5, mid 2024\n"
+	(text "Rev.: 1.6, mid 2024\n"
 		(exclude_from_sim no)
 		(at 181.61 175.26 0)
 		(effects
@@ -7904,7 +7904,7 @@
 				)
 			)
 		)
-		(property "Footprint" "emcosys:SS54_Schottky_40V_5A"
+		(property "Footprint" "Diode_SMD:D_SMA"
 			(at 201.93 142.24 0)
 			(effects
 				(font
