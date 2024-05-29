@@ -8677,7 +8677,7 @@
 				)
 			)
 		)
-		(property "Value" "270R"
+		(property "Value" "22R"
 			(at 60.96 39.37 90)
 			(effects
 				(font
@@ -8743,7 +8743,7 @@
 				)
 			)
 		)
-		(property "Value" "270R"
+		(property "Value" "22R"
 			(at 60.96 52.07 90)
 			(effects
 				(font
