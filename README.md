@@ -44,10 +44,8 @@ http://<device_ip_address>:3000
 5) Now `reboot` the device and check the device tree for your hat's settings <br> e.g. `$ cat /proc/device-tree/hat/vendor`)
 
 ## License & Collaboration
-**Copyright© 2024 Sanne 'SpuQ' Santens**. This project is released under the **CERN OHL-W** license.
-
->[!important]
->This hardware design is released under an open source license. **This does not apply to the Edgeberry name and logo**. Without explicit consent from the Edgeberry owners, you can not use the Edgeberry logo (so, for example, when making the hardware board from this repository yourself, you must remove all the Edgeberry logos from the design). You are, however, allowed to refer textually to the Edgeberry project, etc.
+**Copyright© 2024 Sanne 'SpuQ' Santens**. This project is released under the [**CERN OHL-W**](./LICENSE.txt) license.<br/>
+The [Rules & Guidelines](https://github.com/Edgeberry/.github/blob/main/brand/Edgeberry_Trademark_Rules_and_Guidelines.md) apply to the usage of the Edgeberry™ brand.
 
 ### Collaboration
 
