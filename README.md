@@ -22,17 +22,9 @@ After acquiring (or milling and soldering) the Edgeberry Hardware, and 3D printi
   <img src="documentation/Edgeberry_assembly_6.png" width="32%" />
 </p>
 
-## Edgeberry Software
-On your device, install the [Edgeberry application software](https://github.com/SpuQ/EdgeBerry/) by downloading and executing the installation script
-```
-wget -O install.sh https://github.com/SpuQ/EdgeBerry/releases/download/v2.4.0/install.sh
-chmod +x ./install.sh
-sudo ./install.sh
-```
-If everything was successful, you can now access your Edgeberry's web interface in your local network
-```
-http://<device_ip_address>:3000
-```
+## Edgeberry Device Software
+For using your Edgeberry hardware with the Edgeberry ecosystem (e.g. the Edgeberry Dashboard), you'll need to install the [Edgeberry Device Software](https://github.com/Edgeberry/Edgeberry/). Follow [these installation steps](https://github.com/Edgeberry/Edgeberry?tab=readme-ov-file#installation). If you have different plans with this board, this software is not required for correct operation of any of its hardware components.
+
 ## (re)Writing the EEPROM
 >[!important]
 >**When you purchased the Edgeberry Hardware, the manufacturer has written the EEPROM**. If you are the manufacturer, or you're hacking your Edgeberry board, then continue with the following steps.
