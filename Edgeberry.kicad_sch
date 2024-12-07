@@ -6088,6 +6088,18 @@
 		)
 		(uuid "06481be9-17d5-4348-8cf3-2ac380ada025")
 	)
+	(text "Base Board Rev. 1.7, late 2024"
+		(exclude_from_sim no)
+		(at 181.864 175.006 0)
+		(effects
+			(font
+				(face "Lato Black")
+				(size 2.159 2.159)
+			)
+			(justify left)
+		)
+		(uuid "2314472b-2c3b-47e3-aa84-305e0c15e458")
+	)
 	(text "EEPROM I2C address must be set to 0x50 to be\nused as a Raspberry Pi 'hat' ID. With the\n24LC256 this means pulling all Address pins\nlow."
 		(exclude_from_sim no)
 		(at 20.32 132.08 0)
@@ -6112,7 +6124,7 @@
 		)
 		(uuid "3969f1a4-cee5-45d1-af73-48102fab1b79")
 	)
-	(text "12V Power to 5V"
+	(text "12V - 24V Power to 5V"
 		(exclude_from_sim no)
 		(at 144.78 116.84 0)
 		(effects
@@ -6151,7 +6163,7 @@
 		)
 		(uuid "41cd32a6-18c1-4e73-8ff6-512e12117aae")
 	)
-	(text "RPi Hat ID EEPROM"
+	(text "RPi HAT ID EEPROM"
 		(exclude_from_sim no)
 		(at 20.32 116.84 0)
 		(effects
@@ -6199,17 +6211,6 @@
 		)
 		(uuid "73c4cd56-fccd-4694-b5c7-de65ffb51867")
 	)
-	(text "Rev.: 1.6, mid 2024\n"
-		(exclude_from_sim no)
-		(at 181.61 175.26 0)
-		(effects
-			(font
-				(size 2.4892 2.4892)
-			)
-			(justify left bottom)
-		)
-		(uuid "7867b632-d2fd-4db9-9675-d8279a64bbd8")
-	)
 	(text "Only for programming the EEPROM with the 'hat'\ninformation the WP pin (Write Protection) must\nbe pulled low by the manufacturer. For normal\nuse, write protection is enabled by pulling the\npull-up resistor"
 		(exclude_from_sim no)
 		(at 78.74 133.35 0)
@@ -6245,10 +6246,11 @@
 	)
 	(text "EDGEBERRY"
 		(exclude_from_sim no)
-		(at 181.61 171.45 0)
+		(at 181.61 173.736 0)
 		(effects
 			(font
-				(size 3 3)
+				(face "Lato Heavy")
+				(size 4.572 4.572)
 				(thickness 0.4)
 				(bold yes)
 			)
@@ -6293,7 +6295,7 @@
 		)
 		(uuid "e338660e-34cf-4efd-96e4-2780eb4ddd91")
 	)
-	(text "Compatible with the 40-pin Raspberry PI GPIO header.\nTested with RPi models 3B, 3B+, 4B"
+	(text "Compatible with the 40-pin Raspberry PI GPIO header.\nTested with RPi models 3B, 3B+, 4B, 5B"
 		(exclude_from_sim no)
 		(at 116.84 26.67 0)
 		(effects

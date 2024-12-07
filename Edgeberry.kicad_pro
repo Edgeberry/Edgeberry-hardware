@@ -75,6 +75,7 @@
         "footprint_type_mismatch": "error",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -549,8 +550,8 @@
       "gencad": "EdgeBerry.cad",
       "idf": "EdgeBerry.emn",
       "netlist": "",
-      "plot": "manufacturing/Edgeberry_v1-6_PCB/",
-      "pos_files": "manufacturing/Edgeberry_v1-6_Assembly/",
+      "plot": "manufacturing/Edgeberry_v1-7_PCB/",
+      "pos_files": "manufacturing/Edgeberry_v1-7_Assembly/",
       "specctra_dsn": "EdgeBerry.dsn",
       "step": "EdgeBerry.step",
       "svg": "",
@@ -560,6 +561,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
