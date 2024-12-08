@@ -8,3 +8,6 @@ Edgeberry.xml
 *.lck
 fp-info-cache
 _autosave-Edgeberry.kicad_pcb
+*.step
+*.FCBak
+*.stl
