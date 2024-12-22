@@ -6,22 +6,6 @@ The **Edgeberry Base Board** project is a Raspberry Pi compatible 'HAT' providin
 <br/>
 <br clear="right"/>
 
-## Device Assembly
-After acquiring the Edgeberry Base Board and Edgeberry enclosure, you're ready to assemble your device.
-
-<p float="left">
-  <img src="documentation/Edgeberry_assembly_1.png" width="32%" />
-  <img src="documentation/Edgeberry_assembly_2.png" width="32%" />
-  <img src="documentation/Edgeberry_assembly_3.png" width="32%" />
-</p>
-<p float="left">
-</p>
-<p float="left">
-  <img src="documentation/Edgeberry_assembly_4.png" width="32%" />
-  <img src="documentation/Edgeberry_assembly_5.png" width="32%" />
-  <img src="documentation/Edgeberry_assembly_6.png" width="32%" />
-</p>
-
 ## Edgeberry Device Software
 For using your Edgeberry hardware with the Edgeberry ecosystem (e.g. the Edgeberry Dashboard), you'll need to install the [Edgeberry Device Software](https://github.com/Edgeberry/Edgeberry/). Follow [these installation steps](https://github.com/Edgeberry/Edgeberry?tab=readme-ov-file#installation). If you have different plans with this board, this software is not required for correct operation of any of its hardware components.
 
