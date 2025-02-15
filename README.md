@@ -2,7 +2,12 @@
 
 <img src="documentation/Edgeberry_rendering.png" align="right" width="50%"/>
 
-The **Edgeberry Base Board** project is a Raspberry Pi compatible 'HAT' providing several basics for easily using your Raspberry Pi as an IoT Edge device and deploying it in a real-world environment. Some key features are a powerful 3A step-down convertor for powering your device reliably using a regular 12V adaptor, indicators for providing status feedback, and an expansion slot for integrating application-specific hardware using an [Edgeberry Hardware Cartridge](https://github.com/SpuQ/Edgeberry-cartridge-console-can). The Edgeberry Hardware is designed to snugly fit in the [Edgeberry Enclosure](https://www.thingiverse.com/thing:6595172).
+The **Edgeberry Base Board** provides essential additional functionality for deploying the Raspberry Pi Model B as an IoT edge device in a real-world environment.
+
+- **12 to 24VDC input power supply** for reliably powering the device with up to 3A at 5V.
+- **Indicators and button** for providing status feedback and device interaction
+- **Expansion slot** for Edgeberry Hardware Cartridges
+- **Robust enclosure** for withstanding the environmental challenges of the real world
 <br/>
 <br clear="right"/>
 

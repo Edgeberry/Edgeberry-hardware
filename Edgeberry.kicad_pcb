@@ -1669,30 +1669,6 @@
 				(xyz 90 -180 0)
 			)
 		)
-		(model "/home/tom/Projects/Edgeberry/Hardware/Enclosure/Edgeberry_Enclosure_PoweredByPi.step"
-			(hide yes)
-			(offset
-				(xyz 82 -5 -9.5)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 180)
-			)
-		)
-		(model "/home/tom/Projects/Edgeberry/Hardware/Enclosure/Enclosure_faceplate-RaspberryPi.step"
-			(hide yes)
-			(offset
-				(xyz 34.5 -5 4)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 0 0)
-			)
-		)
 	)
 	(footprint "emcosys:SpuQ_5mm_copper"
 		(layer "F.Cu")
@@ -5669,7 +5645,7 @@
 		(uuid "60e9ff38-1e55-43a6-bc9f-4384a90539fc")
 		(at 93.199 72.822 -90)
 		(property "Reference" "D1"
-			(at -4.55 -0.925 180)
+			(at -4.55 -0.925 360)
 			(layer "F.SilkS")
 			(uuid "adb26df8-2299-4f81-a09a-745fd2c81ffb")
 			(effects
@@ -5910,6 +5886,17 @@
 			)
 			(rotate
 				(xyz 0 0 0)
+			)
+		)
+		(model "${KIPRJMOD}/documentation/Edgeberry_Enclosure.step"
+			(offset
+				(xyz 24.5 127.5 4.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 0 0)
 			)
 		)
 	)
